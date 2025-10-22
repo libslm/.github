@@ -22,7 +22,7 @@ A **creative framework**, **project**, or **mindset** centered around making thi
 
 ## 📁 Projects
 
-- [Lipslm Binary](https://github.com/libslm/binary) - Low-level binary data manipulation library with typed primitives and bitwise operations in TypeScript.
+- [Libslm Binary](https://github.com/libslm/binary) - Low-level binary data manipulation library with typed primitives and bitwise operations in TypeScript.
 
 > Projects will be coming soon — or suddenly — or never.<br>That’s the fun of it.
 
