@@ -34,7 +34,7 @@ A **creative framework**, **project**, or **mindset** centered around making thi
 
 ## 📜 License
 
-This project is licensed under the [MIT License](LICENSE) unless other license are defined in each repository.
+This project is licensed under the [MIT License](../LICENSE) unless other license are defined in each repository.
 
 ## 🤝 Contributing
 
