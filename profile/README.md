@@ -32,4 +32,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🤝 Contributing
 
-Want to add something weird or wonderful? Check out [CONTRIBUTING.md](CONTRIBUTING.md).
+Want to add something weird or wonderful? Check out [CONTRIBUTING](CONTRIBUTING.md).
