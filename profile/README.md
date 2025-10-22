@@ -22,13 +22,19 @@ A **creative framework**, **project**, or **mindset** centered around making thi
 
 ## 📁 Projects
 
-> Projects will be coming soon — or suddenly — or never.  
->
-> That’s the fun of it.
+- [Lipslm Binary](https://github.com/lipslm/binary) - Low-level binary data manipulation library with typed primitives and bitwise operations in TypeScript.
+
+> Projects will be coming soon — or suddenly — or never.<br>That’s the fun of it.
+
+## 💬 Contact & Community
+
+- Issues & PRs on GitHub
+
+> ℹ️ As owner of this community do I not wish to disclose my personal informations.
 
 ## 📜 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE) unless other license are defined in each repository.
 
 ## 🤝 Contributing
 
