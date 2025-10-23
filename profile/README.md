@@ -23,6 +23,7 @@ A **creative framework**, **project**, or **mindset** centered around making thi
 ## 📁 Projects
 
 - [Libslm Binary](https://github.com/libslm/binary) - Low-level binary data manipulation library with typed primitives and bitwise operations in TypeScript.
+- [Libslm Sort](https://github.com/libslm/sort) - Collection of hand-crafted sorting algorithms made for experimentation and fun.
 
 > Projects will be coming soon — or suddenly — or never.<br>That’s the fun of it.
 
