@@ -24,7 +24,7 @@ A **creative framework**, **project**, or **mindset** centered around making thi
 
 - [Libslm Binary](https://github.com/libslm/binary) - Low-level binary data manipulation library with typed primitives and bitwise operations in TypeScript.
 - [Libslm Sort](https://github.com/libslm/sort) - Collection of hand-crafted sorting algorithms made for experimentation and fun.
-- [Libslm Guard](https://github.com/libslm/gaurd) - Collection of guard clauses for validating data.
+- [Libslm Guard](https://github.com/libslm/guard) - Collection of guard clauses for validating data.
 
 > Projects will be coming soon — or suddenly — or never.<br>That’s the fun of it.
 
